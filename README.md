@@ -42,7 +42,7 @@ This project demonstrates how to build a cold email generator powered by LLaMA 3
    streamlit run app.py
    ```
 
-4. **Input details** such as recipient name, company, and intent — and let the model craft a compelling cold email!
+4. **Input details** such as your own API for the LLM model, recipient name, company, and intent — and let the model craft a compelling cold email!
 
 ## 📸 Screenshots
 
