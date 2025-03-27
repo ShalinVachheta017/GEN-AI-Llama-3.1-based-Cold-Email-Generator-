@@ -46,7 +46,8 @@ This project demonstrates how to build a cold email generator powered by LLaMA 3
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/aaaff0e5-4fc1-4e9a-8dd5-864f88905c36)
+![image](https://github.com/user-attachments/assets/259b4ea9-c5f3-40d3-b9c9-eaa92c67f7cb)
+
 
 
 ## 📦 Future Improvements
