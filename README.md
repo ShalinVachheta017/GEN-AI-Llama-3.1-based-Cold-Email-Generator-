@@ -2,20 +2,9 @@
 
 ## Project Summary
 
-### What is this project?
-This project helps write personalized outreach email drafts with AI.
+Imagine writing an email to a different company every day. Starting from a blank page can be slow. This project uses an AI language model to help draft personalized outreach emails. The challenge is making each draft relevant to the person and the reason for contacting them.
 
-### Why is it interesting?
-Writing a separate email for every person can take time.
-
-### How does it work?
-You provide a goal and background information, and a language model creates a draft.
-
-### Real-life example
-You want to contact a company about a partnership, so you enter a few details and edit the suggested email before sending.
-
-### What did I learn?
-I explored prompting, language models, and building a practical text-generation tool.
+You give the tool some background information and a goal, and it prepares an email draft. For example, it can help write a first message about a possible partnership, which you then review before sending. I learned how to give clear instructions to an AI model and build a simple tool around generated text.
 
 ---
 
