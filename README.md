@@ -1,5 +1,27 @@
 # 📧 GEN-AI Cold Email Generator using LLaMA 3.1
 
+## Project Summary
+
+### What is this project?
+This project helps write personalized outreach email drafts with AI.
+
+### Why is it interesting?
+Writing a separate email for every person can take time.
+
+### How does it work?
+You provide a goal and background information, and a language model creates a draft.
+
+### Real-life example
+You want to contact a company about a partnership, so you enter a few details and edit the suggested email before sending.
+
+### What did I learn?
+I explored prompting, language models, and building a practical text-generation tool.
+
+---
+
+## Technical Documentation
+
+
 A Generative AI-powered cold email generator that uses Meta's LLaMA 3.1 to produce personalized and professional cold emails for sales, networking, and outreach.
 
 ## 🎯 Objective/Goal
